@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ch24_03_CopyOnWriteArrayList">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ch24_03_CopyOnWriteArrayList/dist/ch24_03_CopyOnWriteArrayList.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

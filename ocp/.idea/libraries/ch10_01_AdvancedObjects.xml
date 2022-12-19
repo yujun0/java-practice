@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ch10_01_AdvancedObjects">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ch10_01_AdvancedObjects/dist/ch10_01_AdvancedObjects.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

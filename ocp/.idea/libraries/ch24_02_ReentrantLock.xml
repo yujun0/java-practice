@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ch24_02_ReentrantLock">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ch24_02_ReentrantLock/dist/ch24_02_ReentrantLock.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
